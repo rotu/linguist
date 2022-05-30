@@ -4908,6 +4908,7 @@ Protocol Buffer:
   - Protocol Buffers
   extensions:
   - ".proto"
+  - ".pb"
   tm_scope: source.proto
   ace_mode: protobuf
   codemirror_mode: protobuf
